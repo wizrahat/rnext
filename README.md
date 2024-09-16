@@ -1,3 +1,49 @@
+# পূর্বের ব্যাচের এসাইনমেন্ট সমূহ
+<br/>
+
+| #  | এসাইনমেন্ট                                    | বিস্তারিত                          |
+|----|------------------------------------------------|-----------------------------------|
+| 1  | Assignment 1 - SmartGrade Showcase             | [রিক্যুয়ারমেন্ট ভিডিও](https://youtu.be/Y3FMXw4QXnI) |
+| 2  | Assignment 2 - Book Finder App                 | [রিক্যুয়ারমেন্ট ভিডিও](https://youtu.be/aVX-_26XZQI) |
+| 3  | Assignment 3 - Improved Tasker                 | [রিক্যুয়ারমেন্ট ভিডিও](https://youtu.be/t8ghbZBYpgg) |
+| 4  | Assignment 4 - News Feeder                     | [রিক্যুয়ারমেন্ট ভিডিও](https://youtu.be/QNq9RAKYE1U) |
+| 5  | Assignment 5 - React Blogify                   | [রিক্যুয়ারমেন্ট ভিডিও](https://youtu.be/NRtc_Qbf5XU) |
+| 6  | Assignment 6 - ShopCenter                      | [রিক্যুয়ারমেন্ট ভিডিও](https://youtu.be/13kwEIO_p-4) |
+| 7  | Assignment 7 - MovieDB                         | [রিক্যুয়ারমেন্ট ভিডিও](https://youtu.be/nl5dDHcWrX4) |
+| 8  | Assignment 8 - Khana Khazana                   | [রিক্যুয়ারমেন্ট ভিডিও](https://youtu.be/BusSR-ZkMZo) |
+| 9  | Final Assignment - LWSkart                     | [রিক্যুয়ারমেন্ট ভিডিও](https://youtu.be/tdSziJGH5nU) |
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+# পূর্বের ব্যাচের লাইভ সেশন সমূহ
+<br/>
+
+
+| #  | লাইভ সেশন                                    |  বিস্তারিত                                 |
+|----|------------------------------------------------|-----------------------------------|
+| 1  | লাইভ সেশন 1                                   | [লাইভ সেশন ভিডিও](https://youtube.com/live/qollImzEY_w) |
+| 2  | লাইভ সেশন 2                                   | [লাইভ সেশন ভিডিও](https://youtube.com/live/a9Z_yuB0dS0) |
+| 3  | লাইভ সেশন 3                                   | [লাইভ সেশন ভিডিও](https://youtube.com/live/2IjQUp1c9AA) |
+| 4  | লাইভ সেশন 4                                   | [লাইভ সেশন ভিডিও](https://youtube.com/live/RY16tmT_LKs) |
+| 5  | লাইভ সেশন 5                                   | [লাইভ সেশন ভিডিও](https://youtube.com/live/NbfGP3t1xDs) |
+| 6  | লাইভ সেশন 6                                   | [লাইভ সেশন ভিডিও](https://youtube.com/live/qbfN3_H8C4Q) |
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
 [![Youtube][youtube-shield]][youtube-url]
 [![Facebook][facebook-shield]][facebook-group-url]
 
@@ -6,7 +52,7 @@
  <p align="center">
     <img src="https://avatars.githubusercontent.com/u/73503432?v=4" alt="Logo" width="80" height="80" />
     <h3 align="center "><a href="https://learnwithsumit.com/rnext" target="_blank" >Reactive Accelerator</a></h3>
-</p>
+ </p>
 
 <!-- TABLE OF CONTENTS -->
 
